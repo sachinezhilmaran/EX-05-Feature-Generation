@@ -21,8 +21,8 @@ Save the data to the file
 
 # CODE
 ```
-NAME:S Adithya Chowdary.
-REG.NO:212221230100.
+NAME:SACHIN E A
+REG.NO:212221040139.
 ```
 ```
 import pandas as pd
